@@ -75,50 +75,30 @@ src/
 │   ├── **Favorites.css**  
 │   ├── **MovieDetails.css**  
 │   └── ...  
-└── **main.jsx**
+└── **main.jsx*
 
-
-
-
-
----
-
-## 📖 Concepts Demonstrated
-
-- Component‑based architecture
-- Context API for global state
-- API service abstraction
-- Responsive CSS with grid/flexbox
-- Conditional rendering and event handling
-- Routing and dynamic URL params
-- Debugging and root‑cause analysis
-- Deployment readiness (Netlify/Vercel)
-
----
-
-##  Deployment
-
-- **Frontend:** Host on Netlify or Vercel  
-- **Build command:** `npm run build`  
-- **Publish directory:** `dist`  
-
----
 ---
 
 ## 🌐 Live Demo
 
 Check out CINEX in action:
 
-[🎬 View Live Demo](https://your-app-link.netlify.app/)
+[🎬 View Live Demo](https://cinex-rust.vercel.app/)
 
 ---
+## ⚠️ API Availability Note
 
+This project uses the TMDB API. Due to regional network restrictions in India, movie data may not load for some users depending on their ISP or DNS configuration.
+This limitation can be resolved by introducing a backend proxy layer to fetch TMDB data server-side and expose it to the frontend.
+
+---
 ##  Future Enhancements
 
 - Infinite scroll or pagination for movie lists  
 - Search with autocomplete  
 - User authentication for personalized favorites  
-- Integration with a backend (Spring Boot) for persistence  
+- Integration with a backend (Spring Boot) for persistence
+  
 
 ---
 
@@ -138,9 +118,7 @@ Check out CINEX in action:
 
 ---
 
-##  Author
 
-Built by **Jay** — exploring full‑stack development with **React + Spring Boot** and **AI/ML engineering**.
 
 
 
