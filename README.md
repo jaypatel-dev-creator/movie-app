@@ -101,6 +101,16 @@ This limitation can be resolved by introducing a backend proxy layer to fetch TM
   
 
 ---
+## 📸 Screenshots
+
+### Home Page
+![Home Page](https://via.placeholder.com/800x450?text=Home+Page+Screenshot)
+*Responsive movie grid displaying trending, popular, and genre-based movies.*
+
+### Movie Details Page
+![Movie Details Page](https://via.placeholder.com/800x450?text=Movie+Details+Screenshot)
+*Detailed view showing poster, metadata, cast list, and embedded trailers.*
+
 
 
 
