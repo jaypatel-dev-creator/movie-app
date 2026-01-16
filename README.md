@@ -104,11 +104,11 @@ This limitation can be resolved by introducing a backend proxy layer to fetch TM
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](public/screenshots/HomePage.png)
+![Home Page](screenshots/HomePage.png)
 *Responsive movie grid displaying trending, popular, and genre-based movies.*
 
 ### Movie Details Page
-![Movie Details Page](public/screenshots/MovieDetails.png)
+![Movie Details Page](screenshots/MovieDetails.png)
 *Detailed view showing poster, metadata, cast list, and embedded trailers.*
 
 
